@@ -1,0 +1,14 @@
+.box{
+    border: 2px solid #ff0000;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    /* display: flex; */
+    
+}
+
+.container{
+    display: flex;
+    flex-basis: 80%;
+    align-items: flex-start;
+    /* justify-content: left; */
+}
